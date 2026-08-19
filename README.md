@@ -46,19 +46,13 @@
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qushqulov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qushqulov&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=qushqulov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qushqulov&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qushqulov&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
   <a href="https://t.me/qushqulov_0221" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
