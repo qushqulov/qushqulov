@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm O'lmasbek Qo'shqulov !</h1>
+<h1 align="center">Hello 👋, I'm O'lmasbek Qo'shqulov !</h1>
 <h3 align="center">Backend Developer | Python & Django Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=500&lines=Python+%26+Django+Developer;REST+API+%26+Microservices;Telegram+Bot+Architecture;Database+Design+%26+Optimization" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qushqulov&color=2e90fa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -43,17 +39,10 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🤝 Connect with Me
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=qushqulov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qushqulov&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qushqulov&theme=tokyonight" alt="GitHub Streak" />
-</p>
   <a href="https://t.me/qushqulov_0221" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
