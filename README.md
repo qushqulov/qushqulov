@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **scalable web applications and robust API services**
-- ⚡ Building backend solutions with **Python, Django, DRF, PostgreSQL & SQLite**
-- 🛠️ Actively developing custom **Telegram Bots** and automation tools
-- 💬 Ask me about **Python architecture, REST APIs, and Database models**
-- 📫 How to reach me: **[Telegram](https://t.me/qushqulov_0221)**
+- 💻 **Backend Developer** focused on Python ecosystem
+- 🎓 **Specialties:** Python, Django, DRF, PostgreSQL, Telegram Bots & Web APIs
+- 🛠️ **Tech Stack:** Python, Django, DRF, PostgreSQL, SQLite, Git
+- 🎯 **Goal:** Mastering asynchronous Python workflows, cloud deployment, and high-load backend system design.
+- 📫 **Contact:** **[Telegram](https://t.me/qushqulov_0221)**
 
 ---
 
